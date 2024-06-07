@@ -95,6 +95,3 @@ This project is licensed under the MIT License. See the LICENSE file for details
 
 Contributions are welcome! Please feel free to submit a pull request or open an issue for any bugs or feature requests.
 
----
-
-Enjoy chatting with your favorite websites! If you have any questions or need further assistance, please don't hesitate to reach out.
